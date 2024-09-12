@@ -1,0 +1,18 @@
+*{
+    display: flex;
+    justify-content: center;
+    color: black;
+    box-sizing: border-box;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+    font-size: large;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    font-weight: 400;
+    font-size: medium;
+}
